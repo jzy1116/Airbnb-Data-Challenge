@@ -1,0 +1,4 @@
+channel,channel,inquiries,reply_rate,acceptance_rate,booking_rate
+contact_me,contact_me,12360,90.74%,46.09%,16.72%
+book_it,book_it,7642,89.40%,53.97%,100.00%
+instant_book,instant_book,6391,100.00%,100.00%,100.00%
