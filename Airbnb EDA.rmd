@@ -56,7 +56,7 @@ df$words_host  = factor(df$words_host, levels=c('<=1','2-10','11-20','21-30','31
 df$message_length_in_char  = factor(df$message_length_in_char, levels=c('<=1','2-20','21-50','51-100','101-150','151-200','201-250','251-300','301-400','401-500','>500'))
 df$reply_t_in_m  = factor(df$reply_t_in_m, levels=c('<=1m','2-10m','11-30m','31m-1h','1h-3h','3-6h','6-12h','12-24h','1-2d','>2d'))
 df$accept_t_in_m  = factor(df$accept_t_in_m, levels=c('<=1m','2-10m','11-30m','31m-1h','1h-3h','3-6h','6-12h','12-24h','1-2d','>2d'))
-df$guest_size_bin  = factor(df$guest_size_bin, levels=c('<=1','2','3-4','5-6','7-8','9-10','>10'))
+df$guest_size_bin  = factor(df$guest_size_bin, levels=c('1','2','3-4','5-6','7-8','9-10','>10'))
 #df$channel  = factor(df$channel, levels=c('contact_me','book_it','instant_book'))
 #df$room_type  = factor(df$channel, levels=c('Shared room','Private room','Entire home/apt'))
 #df <- DropNA(df, Var="room_type", message = TRUE)
