@@ -67,11 +67,11 @@ df$guest_size_bin  = factor(df$guest_size_bin, levels=c('1','2','3-4','5-6','7-8
 ```{r}
 # interactions
 #mosaicplot(~ interactions + channel + successful_booking, data = df, cex.axis = 0.85, color = FALSE)
-mosaicplot(~ interactions + message_length_in_char + successful_booking, data = df, cex.axis = 0.85, color = TRUE)
+mosaicplot(~ interactions + message_length_in_char + successful_booking, data = df, color = TRUE)
 #mosaicplot(~ interactions + reply_t_in_m + successful_booking, data = df, cex.axis = 0.85, color = TRUE)
-mosaicplot(~ interactions + duration_of_stay + successful_booking, data = df, cex.axis = 0.85, color = TRUE)
-mosaicplot(~ lead_time_in_days + interactions + successful_booking, data = df, cex.axis = 0.85, color = TRUE)
-mosaicplot(~ interactions + reviews + successful_booking, data = df, cex.axis = 0.85, color = TRUE)
+mosaicplot(~ interactions + duration_of_stay + successful_booking, data = df, color = TRUE)
+mosaicplot(~ lead_time_in_days + interactions + successful_booking, data = df, color = TRUE)
+mosaicplot(~ interactions + reviews + successful_booking, data = df, color = TRUE)
 ```
 
 
