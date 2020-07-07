@@ -1,0 +1,99 @@
+Feature,Coef
+interactions_1-10,-1.2413
+reviews_0,-0.8786
+lead_time_>90d*interactions_1-10,-0.6769
+interactions_>30,0.6351
+days_of_stay_1-5d*interactions_1-10,-0.5989
+interactions_21-30,0.5396
+contact_me*lead_time_>90d,0.5028
+guest_size_1*rt_Shared room,0.4907
+reviews_>30,0.4812
+contact_me,0.4304
+days_of_stay_6-10d*interactions_1-10,-0.4006
+days_of_stay_>15d*interactions_>30,0.3974
+guest_size_3-4*rt_Shared room,-0.3974
+reviews_21-30,0.394
+contact_me*lead_time_1-30d,-0.3753
+reviews_11-20,0.3172
+lead_time_>90d,-0.3171
+reviews_1-10,-0.3133
+days_of_stay_11-15d*interactions_21-30,0.305
+days_of_stay_1-5d*interactions_11-20,0.2947
+lead_time_>90d*interactions_21-30,0.2864
+days_of_stay_6-10d*interactions_21-30,0.2638
+lead_time_>90d*interactions_>30,0.2576
+reply_t,-0.2506
+days_of_stay_>15d*interactions_21-30,-0.2449
+contact_me*lead_time_61-90d,0.2343
+lead_time_61-90d*interactions_1-10,-0.2172
+lead_time_31-60d*interactions_1-10,-0.2162
+days_of_stay_1-5d*interactions_21-30,0.2158
+days_of_stay_>15d*interactions_11-20,-0.2019
+days_of_stay_1-5d*interactions_>30,0.2008
+guest_size_1*rt_Entire_home/apt,-0.1985
+days_of_stay_>15d,-0.1893
+lead_time_>90d*interactions_11-20,-0.1841
+guest_size_3-4*rt_Entire_home/apt,0.1826
+guest_size_1,0.1755
+lead_time_31-60d*interactions_>30,0.1724
+lead_time_31-60d,0.1707
+lead_time_>90d*message_length_151-300,-0.1666
+lead_time_1-30d*interactions_>30,0.1483
+days_of_stay_>15d*interactions_1-10,-0.14
+lead_time_1-30d*interactions_1-10,-0.131
+lead_time_31-60d*interactions_11-20,0.1289
+guest_size_3-4,-0.1228
+guest_size_1*rt_Private room,-0.1167
+days_of_stay_1-5d,0.1123
+lead_time_61-90d*interactions_21-30,0.1076
+guest_size_>6*rt_Entire_home/apt,0.1019
+days_of_stay_11-15d*interactions_1-10,-0.1018
+lead_time_1-30d,0.1015
+lead_time_61-90d*interactions_11-20,0.0981
+lead_time_61-90d*message_length_151-300,0.0971
+lead_time_31-60d*message_length_301-450,0.0965
+days_of_stay_6-10d*interactions_>30,0.0942
+guest_size_3-4*rt_Private room,0.092
+guest_size_5-6*rt_Entire_home/apt,-0.0877
+days_of_stay_11-15d*interactions_11-20,-0.0859
+lead_time_31-60d*interactions_21-30,0.0856
+guest_size_>6*rt_Private room,-0.0843
+rt_Shared room,0.0705
+guest_size_>6*rt_Shared room,-0.0692
+contact_me*lead_time_31-60d,0.0687
+message_length_>450,-0.0682
+interactions_11-20,0.067
+lead_time_61-90d*message_length_0-150,-0.0662
+message_length_301-450,0.0624
+lead_time_31-60d*message_length_0-150,0.0613
+lead_time_1-30d*message_length_151-300,0.0605
+days_of_stay_6-10d*interactions_11-20,0.0602
+lead_time_1-30d*interactions_21-30,0.0601
+lead_time_>90d*message_length_>450,-0.06
+days_of_stay_11-15d,0.0599
+lead_time_>90d*message_length_301-450,-0.0577
+days_of_stay_11-15d*interactions_>30,-0.0573
+lead_time_61-90d*interactions_>30,0.0569
+rt_Entire_home/apt,-0.0522
+guest_size_>6,-0.0516
+guest_size_2*rt_Entire_home/apt,-0.0504
+lead_time_31-60d*message_length_151-300,0.0487
+guest_size_5-6*rt_Private room,0.0457
+guest_size_2*rt_Private room,0.0454
+lead_time_61-90d,0.0453
+message_length_151-300,0.0398
+lead_time_31-60d*message_length_>450,-0.0358
+message_length_0-150,-0.0335
+lead_time_>90d*message_length_0-150,-0.0328
+guest_size_5-6*rt_Shared room,0.0285
+lead_time_1-30d*interactions_11-20,0.0241
+lead_time_1-30d*message_length_>450,0.0192
+guest_size_2*rt_Shared room,0.018
+rt_Private room,-0.0179
+lead_time_1-30d*message_length_301-450,0.0176
+days_of_stay_6-10d,0.0175
+guest_size_5-6,-0.0135
+guest_size_2,0.013
+lead_time_61-90d*message_length_>450,0.0085
+lead_time_61-90d*message_length_301-450,0.006
+lead_time_1-30d*message_length_0-150,0.0042
