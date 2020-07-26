@@ -1,0 +1,163 @@
+,listing_neighborhood,channel,inquiries
+0,-unknown-,contact_me,5766
+1,-unknown-,book_it,3153
+2,Copacabana,contact_me,2767
+3,-unknown-,instant_book,2304
+4,Copacabana,book_it,1783
+5,Copacabana,instant_book,1608
+6,Ipanema,contact_me,1065
+7,Ipanema,book_it,898
+8,Ipanema,instant_book,803
+9,Barra da Tijuca,contact_me,507
+10,Leblon,contact_me,416
+11,Leblon,book_it,326
+12,Botafogo,contact_me,322
+13,Barra da Tijuca,book_it,257
+14,Botafogo,book_it,232
+15,Santa Teresa,instant_book,225
+16,Leblon,instant_book,220
+17,Barra da Tijuca,instant_book,196
+18,Lapa,instant_book,180
+19,Santa Teresa,contact_me,176
+20,Leme,contact_me,169
+21,Flamengo,contact_me,159
+22,Botafogo,instant_book,154
+23,Santa Teresa,book_it,145
+24,Lapa,contact_me,143
+25,Flamengo,book_it,136
+26,Flamengo,instant_book,119
+27,Leme,instant_book,111
+28,Recreio dos Bandeirantes,contact_me,111
+29,Laranjeiras,contact_me,92
+30,Leme,book_it,91
+31,Lapa,book_it,83
+32,Lagoa,contact_me,60
+33,Recreio dos Bandeirantes,book_it,60
+34,Laranjeiras,book_it,57
+35,Catete,contact_me,55
+36,Glória,contact_me,55
+37,Tijuca,contact_me,54
+38,Recreio dos Bandeirantes,instant_book,53
+39,Lagoa,book_it,50
+40,Centro,contact_me,47
+41,Glória,book_it,47
+42,Lagoa,instant_book,47
+43,Gávea,contact_me,44
+44,Vidigal,instant_book,43
+45,,contact_me,39
+46,Vidigal,contact_me,37
+47,Laranjeiras,instant_book,35
+48,,book_it,34
+49,Jardim Botânico,contact_me,34
+50,Urca,instant_book,34
+51,Centro,instant_book,33
+52,Catete,book_it,32
+53,Vila Isabel,contact_me,29
+54,Centro,book_it,28
+55,Jardim Botânico,book_it,26
+56,Tijuca,book_it,26
+57,Humaitá,contact_me,24
+58,Gávea,book_it,23
+59,Tijuca,instant_book,23
+60,Vidigal,book_it,23
+61,Humaitá,book_it,20
+62,Urca,contact_me,19
+63,São Conrado,contact_me,18
+64,Urca,book_it,18
+65,Catete,instant_book,16
+66,Estacio,instant_book,16
+67,Cosme Velho,contact_me,15
+68,Glória,instant_book,15
+69,Gávea,instant_book,15
+70,Humaitá,instant_book,14
+71,Rio Comprido,contact_me,14
+72,São Conrado,book_it,13
+73,Cosme Velho,instant_book,12
+74,Vila Isabel,instant_book,12
+75,,instant_book,11
+76,Cosme Velho,book_it,11
+77,Jardim Botânico,instant_book,11
+78,Maracanã,contact_me,11
+79,Maracanã,instant_book,11
+80,São Cristóvão,contact_me,11
+81,Estacio,contact_me,9
+82,Grajaú,contact_me,9
+83,Joá,contact_me,9
+84,Rio Comprido,book_it,9
+85,Vila Isabel,book_it,9
+86,Maracanã,book_it,8
+87,Praça da Bandeira,book_it,8
+88,Praça da Bandeira,contact_me,8
+89,Praça da Bandeira,instant_book,8
+90,Santo Cristo,instant_book,8
+91,Estacio,book_it,7
+92,São Conrado,instant_book,7
+93,Brás de Pina,contact_me,6
+94,Engenho Novo,contact_me,6
+95,Engenho de Dentro,contact_me,5
+96,Engenho de Dentro,instant_book,5
+97,Penha Circular,contact_me,5
+98,Rocha,contact_me,5
+99,São Cristóvão,instant_book,5
+100,Barros Filho,contact_me,4
+101,Penha,contact_me,4
+102,Rio Comprido,instant_book,4
+103,Catumbi,instant_book,3
+104,Cidade Nova,contact_me,3
+105,Méier,instant_book,3
+106,Penha Circular,book_it,3
+107,Ramos,instant_book,3
+108,Rocha,book_it,3
+109,Santo Cristo,contact_me,3
+110,Saúde,instant_book,3
+111,Todos os Santos,instant_book,3
+112,Andaraí,book_it,2
+113,Andaraí,contact_me,2
+114,Andaraí,instant_book,2
+115,Bonsucesso,contact_me,2
+116,Del Castilho,instant_book,2
+117,Engenho de Dentro,book_it,2
+118,Gamboa,contact_me,2
+119,Grajaú,book_it,2
+120,Grajaú,instant_book,2
+121,Méier,book_it,2
+122,Méier,contact_me,2
+123,Parada de Lucas,contact_me,2
+124,Parada de Lucas,instant_book,2
+125,Penha,book_it,2
+126,Riachuelo,book_it,2
+127,Rocha,instant_book,2
+128,Abolição,instant_book,1
+129,Benfica,contact_me,1
+130,Benfica,instant_book,1
+131,Bonsucesso,book_it,1
+132,Catumbi,contact_me,1
+133,Cidade Nova,instant_book,1
+134,Coelho Neto,book_it,1
+135,Del Castilho,contact_me,1
+136,Encantado,book_it,1
+137,Encantado,contact_me,1
+138,Engenho Novo,book_it,1
+139,Engenho Novo,instant_book,1
+140,Engenho da Rainha,contact_me,1
+141,Gamboa,book_it,1
+142,Gamboa,instant_book,1
+143,Guadalupe,contact_me,1
+144,Irajá,book_it,1
+145,Irajá,contact_me,1
+146,Joá,book_it,1
+147,Joá,instant_book,1
+148,Marechal Hermes,contact_me,1
+149,Olaria,contact_me,1
+150,Penha,instant_book,1
+151,Quintino Bocaiúva,contact_me,1
+152,Ramos,book_it,1
+153,Riachuelo,contact_me,1
+154,Rocinha,contact_me,1
+155,Sampaio,instant_book,1
+156,Saúde,book_it,1
+157,Todos os Santos,book_it,1
+158,Todos os Santos,contact_me,1
+159,Vaz Lobo,book_it,1
+160,Vigário Geral,contact_me,1
+161,Vila da Penha,contact_me,1
